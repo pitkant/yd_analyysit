@@ -96,3 +96,8 @@ Magnusson M, Kainu M, Huovari J, Lahti L (2025). *pxweb: R Interface to
 PXWEB APIs*. <doi:10.32614/CRAN.package.pxweb>
 <https://doi.org/10.32614/CRAN.package.pxweb>, R package version 0.17.0,
 <https://github.com/rOpenGov/pxweb>.
+
+Ushey K, Wickham H (2026). *renv: Project Environments*.
+<doi:10.32614/CRAN.package.renv>
+<https://doi.org/10.32614/CRAN.package.renv>, R package version 1.1.7,
+<https://CRAN.R-project.org/package=renv>.
