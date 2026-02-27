@@ -8,7 +8,8 @@ osana [rOpenGov](https://ropengov.org) -pakettiekosysteemiä.
 
 Datan käsittelyyn (data wrangling) käytetään
 [tidyverseen](https://www.tidyverse.org) kuuluvia `ggplot2`-, `dplyr`-
-ja `tidyr`-paketteja.
+ja `tidyr`-paketteja. Kuvion 2 sisältämien prosenttiosuuksien
+laskemiseen on käytetty `ggstats`-pakettia.
 
 Datasettien nimien siivoamiseen käytetään `janitor`-pakettia.
 
@@ -58,14 +59,14 @@ R-paketit voi ladata omaan projektiin käyttämällä renv-paketin
     [1] stats     graphics  grDevices datasets  utils     methods   base     
 
     other attached packages:
-    [1] ggstats_0.12.0 ggplot2_4.0.2  janitor_2.2.1  tidyr_1.3.2    dplyr_1.2.0    pxweb_0.17.1  
+    [1] ggstats_0.12.0 ggplot2_4.0.2  renv_1.1.7     janitor_2.2.1  tidyr_1.3.2    dplyr_1.2.0    pxweb_0.17.0  
 
     loaded via a namespace (and not attached):
-     [1] gtable_0.3.6       jsonlite_2.0.0     compiler_4.5.2     renv_1.1.7         tidyselect_1.2.1   stringr_1.6.0      parallel_4.5.2     snakecase_0.11.1  
-     [9] scales_1.4.0       R6_2.6.1           labeling_0.4.3     generics_0.1.4     curl_7.0.0         backports_1.5.0    checkmate_2.3.4    tibble_3.3.1      
-    [17] lubridate_1.9.5    pillar_1.11.1      RColorBrewer_1.1-3 rlang_1.1.7        stringi_1.8.7      S7_0.2.1           timechange_0.4.0   cli_3.6.5         
-    [25] withr_3.0.2        magrittr_2.0.4     grid_4.5.2         lifecycle_1.0.5    vctrs_0.7.1        glue_1.8.0         farver_2.1.2       purrr_1.2.1       
-    [33] httr_1.4.8         tools_4.5.2        pkgconfig_2.0.3   
+     [1] gtable_0.3.6       jsonlite_2.0.0     compiler_4.5.2     tidyselect_1.2.1   stringr_1.6.0      snakecase_0.11.1   scales_1.4.0       R6_2.6.1          
+     [9] labeling_0.4.3     generics_0.1.4     curl_7.0.0         backports_1.5.0    checkmate_2.3.4    tibble_3.3.1       lubridate_1.9.5    pillar_1.11.1     
+    [17] RColorBrewer_1.1-3 rlang_1.1.7        stringi_1.8.7      S7_0.2.1           timechange_0.4.0   cli_3.6.5          withr_3.0.2        magrittr_2.0.4    
+    [25] grid_4.5.2         lifecycle_1.0.5    vctrs_0.7.1        glue_1.8.0         farver_2.1.2       purrr_1.2.1        httr_1.4.8         tools_4.5.2       
+    [33] pkgconfig_2.0.3  
 
 # Käytetyt paketit
 
