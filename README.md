@@ -70,27 +70,14 @@ R-paketit voi ladata omaan projektiin käyttämällä renv-paketin
 
 # Käytetyt paketit
 
-Larmarange J (2025). *ggstats: Extension to ‘ggplot2’ for Plotting
-Stats*. R package version 0.12.0,
-<https://larmarange.github.io/ggstats/>.
-
-H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag
-New York, 2016.
-
 Firke S (2024). *janitor: Simple Tools for Examining and Cleaning Dirty
 Data*. <doi:10.32614/CRAN.package.janitor>
 <https://doi.org/10.32614/CRAN.package.janitor>, R package version
 2.2.1, <https://CRAN.R-project.org/package=janitor>.
 
-Wickham H, Vaughan D, Girlich M (2025). *tidyr: Tidy Messy Data*.
-<doi:10.32614/CRAN.package.tidyr>
-<https://doi.org/10.32614/CRAN.package.tidyr>, R package version 1.3.2,
-<https://CRAN.R-project.org/package=tidyr>.
-
-Wickham H, François R, Henry L, Müller K, Vaughan D (2026). *dplyr: A
-Grammar of Data Manipulation*. <doi:10.32614/CRAN.package.dplyr>
-<https://doi.org/10.32614/CRAN.package.dplyr>, R package version 1.2.0,
-<https://CRAN.R-project.org/package=dplyr>.
+Larmarange J (2025). *ggstats: Extension to ‘ggplot2’ for Plotting
+Stats*. R package version 0.12.0,
+<https://larmarange.github.io/ggstats/>.
 
 Magnusson M, Kainu M, Huovari J, Lahti L (2025). *pxweb: R Interface to
 PXWEB APIs*. <doi:10.32614/CRAN.package.pxweb>
@@ -101,3 +88,16 @@ Ushey K, Wickham H (2026). *renv: Project Environments*.
 <doi:10.32614/CRAN.package.renv>
 <https://doi.org/10.32614/CRAN.package.renv>, R package version 1.1.7,
 <https://CRAN.R-project.org/package=renv>.
+
+Wickham H, François R, Henry L, Müller K, Vaughan D (2026). *dplyr: A
+Grammar of Data Manipulation*. <doi:10.32614/CRAN.package.dplyr>
+<https://doi.org/10.32614/CRAN.package.dplyr>, R package version 1.2.0,
+<https://CRAN.R-project.org/package=dplyr>.
+
+Wickham H, Vaughan D, Girlich M (2025). *tidyr: Tidy Messy Data*.
+<doi:10.32614/CRAN.package.tidyr>
+<https://doi.org/10.32614/CRAN.package.tidyr>, R package version 1.3.2,
+<https://CRAN.R-project.org/package=tidyr>.
+
+Wickham H (2016). *ggplot2: Elegant Graphics for Data Analysis*.
+Springer-Verlag New York.
